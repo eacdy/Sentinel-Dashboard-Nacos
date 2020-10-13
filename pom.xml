@@ -44,7 +44,7 @@
         <fastjson.version>1.2.56</fastjson.version>
 
         <!-- Test libs -->
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <mockito.version>2.21.0</mockito.version>
         <assertj.version>3.12.1</assertj.version>
         <awaitility.version>3.1.5</awaitility.version>
